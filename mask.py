@@ -7,7 +7,7 @@ import os
 from nilearn.image import index_img
 from nilearn.decoding import Decoder
 from nilearn.image import math_img, binarize_img, concat_imgs, load_img, threshold_img
-import numpy as np
+
 import nibabel as nib
 
 #set path
